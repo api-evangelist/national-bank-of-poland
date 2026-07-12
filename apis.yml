@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: http://api.nbp.pl/en.html
 common:
+  - type: DomainSecurity
+    url: security/national-bank-of-poland-domain-security.yml
   - type: Website
     url: http://api.nbp.pl/en.html
   - type: PublicAPIsListing
