@@ -1,4 +1,16 @@
 aid: national-bank-of-poland
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/national-bank-of-poland.png
 name: National Bank of Poland
 description: "A collection of currency exchange rates (data in XML and JSON)"
 url: http://api.nbp.pl/en.html
