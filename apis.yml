@@ -35,11 +35,11 @@ x-tier-reason: bulk-registered-from-public-apis
 tags:
   - Currency Exchange
   - Public APIs
+  - Exchange Rates
 apis:
   - name: National Bank of Poland
     description: "A collection of currency exchange rates (data in XML and JSON)"
     humanURL: http://api.nbp.pl/en.html
-    baseURL: http://api.nbp.pl/en.html
     tags:
       - Currency Exchange
     properties:
